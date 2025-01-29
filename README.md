@@ -51,6 +51,10 @@ Aquí podemos ver el avance general de las funciones principales pedidas por mi.
 > El proyecto está terminado, tan solo haría falta fusionar la rama main y la de desarrollo y escribir una conclusión será la ultima actualización después de actualizar los cambios de calidad de vida que e añadido (botón de reiniciado y quitar los nombres de los participantes elegidos de la lista).
 
 ## CONCLUSIÓN
-Este desafío me ayudo a probar por primera vez como es una experiencia de desarrollador, aprendí la importancia de la documentación y de versionar un proyecto. Git y GitHub fueron las herramientas principales con las cuales me divertí mucho al usarlas, puedo decir que si sigo desarrollando mis habilidades puedo hacer versionados mas profesionales y un trabajo mejor en general.
+Este desafío me ayudó a experimentar por primera vez cómo es la experiencia de un desarrollador, comprendiendo la importancia de la documentación y el versionado de proyectos. Git y GitHub fueron herramientas fundamentales en este proceso, y disfruté mucho explorando sus funcionalidades. Siento que, si continúo desarrollando mis habilidades, podré realizar un control de versiones más profesional y optimizar mi flujo de trabajo.
 
-Aprend mucho cuando programaba el código JavaScript del proyecto, sobre todo al manejo de arreglos y listas que se reflejan en HTML. Estoy orgulloso de haber modificado exitosamente el código css para añadir las funciones extras que había pensado...
+Durante la programación en JavaScript, aprendí bastante sobre el manejo de arreglos y su integración con el DOM para reflejar listas dinámicamente en HTML. Este aspecto del desarrollo me permitió mejorar mi comprensión sobre cómo estructurar mejor mis funciones y reutilizar código de manera eficiente.
+
+También estoy orgulloso de haber modificado y adaptado el código CSS para implementar las funciones adicionales que había planeado. Cada ajuste me permitió afianzar conocimientos sobre estilos y mejorar la experiencia de usuario dentro de la aplicación.
+
+En general, este proyecto me dejó una valiosa experiencia en desarrollo web y control de versiones. Me siento satisfecho con los avances logrados y motivado para seguir aprendiendo y perfeccionando mis habilidades.
