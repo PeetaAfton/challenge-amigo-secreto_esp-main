@@ -51,3 +51,6 @@ Aquí podemos ver el avance general de las funciones principales pedidas por mi.
 > El proyecto está terminado, tan solo haría falta fusionar la rama main y la de desarrollo y escribir una conclusión será la ultima actualización después de actualizar los cambios de calidad de vida que e añadido (botón de reiniciado y quitar los nombres de los participantes elegidos de la lista).
 
 ## CONCLUSIÓN
+Este desafío me ayudo a probar por primera vez como es una experiencia de desarrollador, aprendí la importancia de la documentación y de versionar un proyecto. Git y GitHub fueron las herramientas principales con las cuales me divertí mucho al usarlas, puedo decir que si sigo desarrollando mis habilidades puedo hacer versionados mas profesionales y un trabajo mejor en general.
+
+Aprend mucho cuando programaba el código JavaScript del proyecto, sobre todo al manejo de arreglos y listas que se reflejan en HTML. Estoy orgulloso de haber modificado exitosamente el código css para añadir las funciones extras que había pensado...
