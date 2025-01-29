@@ -36,12 +36,18 @@ Aquí podemos ver el avance general de las funciones principales pedidas por mi.
 
 - [x] Añadir un botón para reiniciar el juego.
     - [x] Función de condiciones iniciales.
-- [ ] Optimizar el código.
-- [ ] Hacer que una vez sorteado un nombre no pueda repetirse.
+- [x] Optimizar el código.
+- [x] Hacer que una vez sorteado un nombre no pueda repetirse.
 - [ ] ...
 ---
 
 >[!note]
 >Quisiera ver si soy capaz de pensar en alguna función extra para añadir a al código alguna función que se se ocurra pero antes quiero terminar las funciones principales, si no se me ocurre nada dejaré esta sección en blanco. 
+
+>[!note]
+>Añadir un botón nuevo e incluir sus funciones correspondientes fue relativamente sencillo, tome como referencia los cursos anteriores de "Principiante de programación" para poder hacer los cambios en los tres códigos principales (css, JavaScript y HTML).
+
+>[!important]
+> El proyecto está terminado, tan solo haría falta fusionar la rama main y la de desarrollo y escribir una conclusión será la ultima actualización después de actualizar los cambios de calidad de vida que e añadido (botón de reiniciado y quitar los nombres de los participantes elegidos de la lista).
 
 ## CONCLUSIÓN

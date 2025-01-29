@@ -25,12 +25,14 @@ function mostrarAmigos(){
 }
 function sortearAmigo(){
     //CONTROL DE ERRORES:
-    if (amigos.length <2) {
+    if (amigos.length == 0) {
         alert('Cuentas con muy pocos amigos. :(\n¡Consigue mas y escibelos! :D');
     } else {
         let indiceElegido = Math.floor(Math.random() * amigos.length);//Elegir el indice del amigo que gano el sorteo sin importar la cantidad de amigos
         amigoElegido = document.getElementById('resultado');
         amigoElegido.innerHTML = `<p>Tu amigo secreto es: ${amigos[indiceElegido]}</p>`;
+        amigos.splice(indiceElegido, 1);//Eliminar el nombre de la persona del arreglo para que no vuelva a aparecer
+        mostrarAmigos();//mostrar la lista actualizada.
     }
 }
 function condicionesIniciales(){
