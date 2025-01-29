@@ -142,6 +142,7 @@ ul {
     text-align: center;
 }
 
+
 /* Botón de sortear título */
 .button-draw {
     display: flex;
@@ -158,5 +159,31 @@ ul {
 }
 
 .button-draw:hover {
+    background-color: var(--color-button-hover);
+}
+
+/* Contenedor de los botones */
+.button-container {
+    display: flex; /* Coloca los botones en la misma línea */
+    gap: 10px; /* Espacio entre botones */
+    justify-content: center; /* Centra los botones */
+}
+
+/* Botón de reinicio */
+.button-reset {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+}
+
+.button-reset img {
+    margin-right: 40px;
+}
+
+.button-reset:hover {
     background-color: var(--color-button-hover);
 }

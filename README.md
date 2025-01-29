@@ -20,24 +20,25 @@ Aquí podemos ver el avance general de las funciones principales pedidas por Alu
 
 ---
 
->[!danger]
+>[!warning]
 >Puedo decir que por ahora lo que mas me costo fue la función de `mostrarAmigo`, no tenia idea de proseguir hasta que analizando las indicaciones del instructor y revisando el código HTML fue cuando me di cuenta que había un bloque en el HTML que no te ni idea de como funcionaba y fue en ese momento que me puse a investigar en las documentaciones como es que funcionaba el`.innerHTML` desde ahí todo cobro sentido y solo fue cuestión de aplicar la teoría.
   
->[!danger]
+>[!warning]
 >en la ultima función de sortear amigos, por un error de mi persona, se me complico de sobremanera, estaba escribiendo el método `Math.random()` sin el paréntesis. 🫣.
 
-  >[!note]
-  >se podría decir que ya esta prácticamente terminado el proyecto, solo haría falta darle los últimos retoques
+>[!note]
+>se podría decir que ya esta prácticamente terminado el proyecto, solo haría falta darle los últimos retoques
 
 ## FUNCIONES EXTRA
 Aquí podemos ver el avance general de las funciones principales pedidas por mi.
 
 ---
 
-- [ ] Añadir un botón para reiniciar el juego.
-    - [ ] Función de condiciones iniciales
+- [x] Añadir un botón para reiniciar el juego.
+    - [x] Función de condiciones iniciales.
 - [ ] Optimizar el código.
-
+- [ ] Hacer que una vez sorteado un nombre no pueda repetirse.
+- [ ] ...
 ---
 
 >[!note]
